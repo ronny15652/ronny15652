@@ -104,4 +104,3 @@ Olá, sou um desenvolvedor Front-end e Mobile experiente, com conhecimento em te
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
