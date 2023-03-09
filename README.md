@@ -21,13 +21,13 @@ Olá, sou um desenvolvedor Front-end e Mobile experiente, com conhecimento em te
 <br/>  
 
 
-## Fogo Rapido  
+## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-##### **🌱 Atualmente estou aprimorando meu conhecimento em React Native!**  
+- ### 🌱 Atualmente estou aprimorando meu conhecimento em React Native!  
   
 
-##### **⚡Curiosidade: mantenho o turno da noite ligado frequentemente!**  
+- ### ⚡Curiosidade: mantenho o turno da noite ligado frequentemente!  
 
 
 </td><td valign="top" width="50%">
