@@ -3,7 +3,7 @@
 
 
 ### Contente por te ver aqui!  
-Olá, sou um desenvolvedor Front-end e Mobile experiente, com conhecimento em tecnologias como React, React Native, Express, Tailwind e etc. Tenho uma compreensão sólida de desenvolvimento de aplicativos móveis e web, e estou constantemente buscando expandir minhas habilidades. Atualmente, estou procurando uma oportunidade de carreira para continuar a desenvolver minhas habilidades e crescer profissionalmente. Você pode conferir alguns dos meus projetos de código aberto aqui no meu GitHub. Sinta-se à vontade para entrar em contato comigo para ver mais projetos FullStack que desenvolvi.  
+Olá, sou um desenvolvedor Front-end e Mobile experiente, com conhecimento em tecnologias como React, React Native, Next, Nest, Tailwind e etc. Tenho uma compreensão sólida de desenvolvimento de aplicativos móveis e web, e estou constantemente buscando expandir minhas habilidades. Atualmente, estou procurando uma oportunidade de carreira para continuar a desenvolver minhas habilidades e crescer profissionalmente. Você pode conferir alguns dos meus projetos de código aberto aqui no meu GitHub. Sinta-se à vontade para entrar em contato comigo para ver mais projetos FullStack que desenvolvi.  
   
 
 <a href="https://github.com/ronny15652" target="_blank">
